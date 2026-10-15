@@ -7,8 +7,8 @@
     <b>Freelancer</b> -
     <b>Software Engineer</b>
     <br/>
-     <a href="https://en.wikipedia.org/wiki/Port_Said">Port Said / Egypt</a> -
-    <b>January 7, 1998</b>
+    <b>Jan 7, 98</b> -
+    <a href="https://en.wikipedia.org/wiki/Port_Said">Port Said / Egypt</a>
   </p>
 </div>
 
