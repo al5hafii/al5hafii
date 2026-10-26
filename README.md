@@ -16,9 +16,9 @@
 ---
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al5hafii&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al5hafii&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=al5hafii&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=al5hafii&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=al5hafii&theme=github_dark&utcOffset=3" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al5hafii&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al5hafii&theme=github_dark" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=al5hafii&theme=github_dark" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=al5hafii&theme=github_dark" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=al5hafii&theme=github_dark&utcOffset=3" width="40%" />
 </div>
