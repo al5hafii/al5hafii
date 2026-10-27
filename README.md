@@ -3,7 +3,7 @@
   <img style="border-radius:1rem;" width="480" height="270" src="assets/heath-ledger.webp" alt="heath ledger" />
   <br/>
   <p>
-    <b>Doing many things & Trying other things</b><br/>
+    <b>Doing many things & Trying other things</b><br/><br/>
     <a href="https://en.wikipedia.org/wiki/Autodidacticism">Self-Taught</a>
     <b>Software Engineer</b>
     <br/>
