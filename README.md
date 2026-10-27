@@ -4,8 +4,7 @@
   <br/>
   <p>
     <b>Into tech and science. My own way, No rules, No limits.</b><br/>
-    <a href="https://en.wikipedia.org/wiki/Autodidacticism">Self-Taught</a> / 
-    <b>Freelancer</b> -
+    <a href="https://en.wikipedia.org/wiki/Autodidacticism">Self-Taught</a>
     <b>Software Engineer</b>
     <br/>
     <b>Jan 7, 98</b> -
